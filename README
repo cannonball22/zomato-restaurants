@@ -1,3 +1,8 @@
+Introduction
+Mr.Adham wants to open a new successful resturant, but didn't know what makes a resturant successful. so he started to collect some data from various sources of possible competitors.
+
+he manged to collect some data and now needs your help to classify if the restaurant will be successfull or not!
+
 This is the API of zomato restaurant project. the data is not included here, just the model and frontend of the API.
 
 This project is ready to be deployed.
